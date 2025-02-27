@@ -1,4 +1,4 @@
-Using gemini ai
+Using gemini ai #aider-chat #aider-chat-install #aider-chat-config 
 
 ## Install aider with one-liner script
 ---

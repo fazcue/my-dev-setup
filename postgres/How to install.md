@@ -1,4 +1,4 @@
-latest version from PPA
+latest version from PPA #postgres #postgres-install 
 
 ```shell
 sudo apt install postgresql

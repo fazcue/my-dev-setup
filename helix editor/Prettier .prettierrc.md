@@ -1,4 +1,4 @@
-To add in every nextjs project root
+To add in every nextjs project root #development
 
 ```json
 {

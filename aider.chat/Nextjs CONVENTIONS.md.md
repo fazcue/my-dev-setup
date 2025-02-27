@@ -1,4 +1,4 @@
-To add in every nextjs project root
+To add in every nextjs project root #aider-chat #nextjs #aider-chat-conventions
 
 ```markdown
 # When writing code, you MUST follow these principles:
